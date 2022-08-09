@@ -143,7 +143,7 @@ Current program is written in Crystal (crystal-lang.org) -- it was written in ru
 
 I would like to make this self-hosting, but that would take a little bit of work.
 
-<h2>About the Name.</h2>
+<h2>About the Name</h2>
 
 
 Years ago, I really, really liked Compiz
@@ -155,7 +155,7 @@ Compiz then forked into Beryl. There was the Emerald Window Manager, which was r
 I actually made another programming language. I made 2 other programming language. One was a full compiler and assembler, that ran code in memory. It was around 16 thousand lines of code. I made a programming language that had the syntax of Python or Ruby, but transpiled into C++. I called that C += 2. I used that other language, and I created a Web Browser in it based on Chrome. I called it "Emerald Browser." Emeralds are beautiful green gems.
 
 
-<i>
+<i style="color:green;text-shadow: 3px 3px 3px black">
     "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate."</i> --Wikipedia
 
 
@@ -172,13 +172,11 @@ QUESTIONS
 Why not use Rust?
 
 
+<pre><code>
 time rustc a.rs
-
 real	0m0.637s
-
 user	0m0.502s
-
-sys	0m0.160s
+sys	0m0.160s</code></pre>
 
 
 Rust takes 0.637 seconds to compile an empty file!
