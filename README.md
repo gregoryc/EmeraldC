@@ -95,6 +95,8 @@ for example (insignificant example)
 
 
 
+<pre>
+<code>
 int main() {
     stdin.each_line { |line|
         print line;
@@ -102,8 +104,7 @@ int main() {
 
     free(line);
 }
-
-
+</code></pre>
 You can iterate over the standard input like Ruby
 
 
