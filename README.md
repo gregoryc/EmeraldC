@@ -56,22 +56,37 @@ Makes for an excellent `scripting language` (which is really just native C witho
 delim is a static global in each module called `sep`.
 Make sure you free() the string after. The string is stored in a static global variable called `last`.
 So you could do puts(...); free(last)
+
 2      ew     *i.ew "Foo", a.ew "bar" | char* ends with another char*?
+
 3      sw     *i.sw "Foo", a.sw "bar" | char* starts with another char*?
+
 4      ==     Comparison of strs, "foo" == "bar"
+
 5      strip     Returns pointer to string that was stripped, in place
+
 6      chomp     void function, chomps end of string of spaces, i.chomp or chomp(i), in place
+
 7      gsub     Just like ruby, there is a gsub function.
 The preprocessor detects if you use and adds -lpcre2-8 to the link flags if you use it. Use $" for substitutions in argument 3 gsub(a, b, c)
+
 8      join     Joins an array of strings, to split(), use C's strtok (very fast)
+
 9      Lightweight     regexes are added, almost 15 times as fast as C's built in regex. They are very simple, they only have bracket expressions, like [a-z].
+
 To use it, you need to pass a buffer of the size of the expansion of the regex. Foo[a-fA-F] would be Foo[abcdefABCDEF]. That would be stored in a buffer.
+
 From testing, 15x times faster than C's regex POST COMPILATION, if compilation keeps happening, it might be hundreds of times faster. 
 Uses static inline functions, NO HEAP MEMORY unless you malloc before().
+
 10      print     Like old python print "Hello"(fputs);
+
 11      print_int     prints a number and returns the number, can be chained
+
 12      each_line,     Perlish, different names, by_line(s) or each_line(s), iterate over all lines, free after
+
 13      NOTE     You can use open_memstream() on UNIX to easily concatenate strings.
+
 asprintf() is another useful function which is UNIX-centric. open_memstream() could be an alternative to std::string.
 It works very well with each_line or by_lines (see above)
 These features seem simple, but they can make C programming much, MUCH easier
