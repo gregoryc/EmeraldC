@@ -41,14 +41,18 @@ C is fast and straightforward without it, but it has many features.
 
 If one runs the command line preprocessor, with the "--features" flag, the program shows all of its features
 
+<h4>A better C</h4>
 
-Code:
-A better C
 C is a fantastic language. C compiles insanely fast, is the fastest language there is, is very clear, is native to all systems, and is useful for all purposes.
-Some people, e.g., Bjarne Stroustrup, consider that C is "not good enough", and make languages like C++ or D (or thousands of others)
+
+Some people, e.g., Bjarne Stroustrup, consider that C is "not good enough", and make languages like C++ or D (or thousands of others)   
+
 This is not necessary.
+
 There is no reason to use Python instead of C for "simple scripting tasks"
+
 Some functions can be used as methods
+
 Makes for an excellent "scripting language" (which is really just native C without things making it slow)
 
 
