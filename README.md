@@ -144,18 +144,11 @@ Years ago, I really, really liked Compiz
 Compiz then forked into Beryl. There was the Emerald Window Manager, which was really nice and beautiful.
 
 
-I actually made another programming language. I made 2 other programming language. One was a full compiler and assembler, that ran code in memory. It was around 16 thousand lines of code. I made a programming language that had the syntax of Python or Ruby, but transpiled into C++. I called that C += 2. I used that other language, and I created a Web Browser in it based on Chrome. I called it "Emerald Browser."
-----------------
-Emeralds are beautiful green gems.
-------------------
-"Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate." --Wikipedia
-
---------------
+I actually made another programming language. I made 2 other programming language. One was a full compiler and assembler, that ran code in memory. It was around 16 thousand lines of code. I made a programming language that had the syntax of Python or Ruby, but transpiled into C++. I called that C += 2. I used that other language, and I created a Web Browser in it based on Chrome. I called it "Emerald Browser." Emeralds are beautiful green gems.
 
 
-
-
-
+<i>
+    "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate."</i> --Wikipedia
 
 
 
