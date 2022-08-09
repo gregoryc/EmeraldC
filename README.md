@@ -4,6 +4,9 @@ The Ultimate C Preprocessor
 
 I'm naming this preprocessor "Emerald C".
 
+https://cboard.cprogramming.com/c-programming/181160-hi-i-have-created-some-work-i-think-will-really-valuable-community.html?s=589b5504cd0e3c2dc90e9abd8b66906f
+
+
 
 Howdy!
 
