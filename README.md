@@ -79,7 +79,7 @@ To use it, you need to pass a buffer of the size of the expansion of the regex. 
 From testing, 15x times faster than C's regex POST COMPILATION, if compilation keeps happening, it might be hundreds of times faster. 
 Uses static inline functions, NO HEAP MEMORY unless you malloc before().
 
-10      print     Like old python print "Hello"(fputs);
+10      print     Like old python print "Hello" (fputs);
 
 11      print_int     prints a number and returns the number, can be chained
 
@@ -152,8 +152,7 @@ I actually made another programming language. I made 2 other programming languag
     "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate."</i> --Wikipedia
 
 
-
-There was a browser with a terminal built in to it.
+<br/><br/><br/>There was a browser with a terminal built in to it.
 
 I show things off on my youtube channel, which I'm not going to link here but is linked in my other repo.
 
