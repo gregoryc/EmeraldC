@@ -159,15 +159,15 @@ I actually made another programming language. I made 2 other programming languag
     "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate."</i> --Wikipedia
 </div>
 
-<br/><br/><br/>There was a browser with a terminal built in to it.
+There was a browser with a terminal built in to it.
 
 I show things off on my youtube channel, which I'm not going to link here but is linked in my other repo.
 
 This new language is better. It's ideal.
 
+---
 QUESTIONS
-
---------------------------------------------------------------------
+---
 
 Why not use Rust?
 
