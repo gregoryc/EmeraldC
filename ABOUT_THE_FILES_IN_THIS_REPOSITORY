@@ -1,0 +1,34 @@
+ABOUT FILES
+
+
+
+
+Hi
+
+
+
+So the preprocessor is in crystal.  I want to port it to C.
+
+
+The other file copies code from manpages to ones clipboard, for pasting to a C/C++ program
+
+
+It's written in c so it's really fast
+
+
+
+For example, if the program is called "c"
+
+
+c read
+
+would copy the ERRNOs from the read() syscall to ones clipboard.
+
+
+There would be case statements for every errno.
+
+
+
+I WANT TO HAVE A DEBATE ABOUT THE DIRECTION OF THIS PROJECT. THEN I WILL FIX CODE FORMATTING AND LITTLE THINGS
+
+
