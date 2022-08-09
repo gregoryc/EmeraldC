@@ -1,0 +1,50 @@
+I have named this project and I have made a github for it.
+
+I am looking for people to have a discussion about the direction of this.
+
+
+After that, code formatting and things like that can be fixed.
+
+
+What functions would you like to add to make this language even better?
+
+
+String handling is a big problem for C. I handled that.
+
+
+It would be nice to have 1) backticks like ruby or bash 2) blocks like ruby or crystal
+
+3) (So one could do something like Thread.new {
+
+........
+
+
+}) in C
+
+
+
+
+
+4) Maybe I can add list comprehensions? That would be cool.
+5) I want to have good gsub variants
+
+
+
+These are 5 things we have yet to implement.
+
+
+What other methods would you guys like?
+
+
+The source code is one file of 437 lines of Crystal code.
+
+
+It is not hard to fork or modify.
+
+There are no classes or anything complicated.
+
+
+
+
+
+                                                              
