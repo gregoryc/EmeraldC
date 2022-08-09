@@ -2,7 +2,7 @@
 The Ultimate C Preprocessor
 
 
-I'm naming this preprocessor "Emerald C".
+I'm naming this preprocessor "Emerald C."
 
 https://cboard.cprogramming.com/c-programming/181160-hi-i-have-created-some-work-i-think-will-really-valuable-community.html?s=589b5504cd0e3c2dc90e9abd8b66906f
 
@@ -45,16 +45,16 @@ If one runs the command line preprocessor, with the "--features" flag, the progr
 Code:
 A better C
 C is a fantastic language. C compiles insanely fast, is the fastest language there is, is very clear, is native to all systems, and is useful for all purposes.
-Some people, e.g., Bjarne Stroustrup, consider that C is `not good enough`, and make languages like C++ or D (or thousands of others)
+Some people, e.g., Bjarne Stroustrup, consider that C is "not good enough", and make languages like C++ or D (or thousands of others)
 This is not necessary.
-There is no reason to use Python instead of C for `simple scripting tasks`
+There is no reason to use Python instead of C for "simple scripting tasks"
 Some functions can be used as methods
-Makes for an excellent `scripting language` (which is really just native C without things making it slow)
+Makes for an excellent "scripting language" (which is really just native C without things making it slow)
 
 
 1      String     Interpolation "String interplation like this #{foo} " Calls the join() function (talked about below to join strings,
-delim is a static global in each module called `sep`.
-Make sure you free() the string after. The string is stored in a static global variable called `last`.
+delim is a static global in each module called "sep".
+Make sure you free() the string after. The string is stored in a static global variable called "last".
 So you could do puts(...); free(last)
 
 2      ew     *i.ew "Foo", a.ew "bar" | char* ends with another char*?
@@ -95,17 +95,15 @@ for example (insignificant example)
 
 
 
-Code:
 int main() {
-
-
     stdin.each_line { |line|
         print line;
     }
 
-
     free(line);
 }
+
+
 You can iterate over the standard input like Ruby
 
 
@@ -137,10 +135,7 @@ Gregory
 
 I would like to make this self-hosting, but that would take a little bit of work.)
 
-
-
-
-About the name.
+<h2>About the name.</h2>
 
 
 Years ago, I really, really liked Compiz
@@ -149,15 +144,18 @@ Years ago, I really, really liked Compiz
 Compiz then forked into Beryl. There was the Emerald Window Manager, which was really nice and beautiful.
 
 
-I actually made another programming language. I made 2 other programming language. One was a full compiler and assembler, that ran code in memory. It was around 16 thousand lines of code.
-
-
-I made a programming language that had the syntax of Python or Ruby, but transpiled into C++.   I called that C += 2.
-I used that other language, and I created a Web Browser in it based on Chrome. I called it "Emerald Browser".
-
+I actually made another programming language. I made 2 other programming language. One was a full compiler and assembler, that ran code in memory. It was around 16 thousand lines of code. I made a programming language that had the syntax of Python or Ruby, but transpiled into C++. I called that C += 2. I used that other language, and I created a Web Browser in it based on Chrome. I called it "Emerald Browser."
+----------------
 Emeralds are beautiful green gems.
-
+------------------
 "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness is classified as generally poor. Emerald is a cyclosilicate." --Wikipedia
+
+--------------
+
+
+
+
+
 
 
 
@@ -177,7 +175,9 @@ Why not use Rust?
 time rustc a.rs
 
 real	0m0.637s
+
 user	0m0.502s
+
 sys	0m0.160s
 
 
