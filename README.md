@@ -41,7 +41,10 @@ C is fast and straightforward without it, but it has many features.
 
 If one runs the command line preprocessor, with the "--features" flag, the program shows all of its features
 
-<h4>A better C</h4>
+
+--------------------------
+<h3>A Better C</h3>
+--------------------------
 
 C is a fantastic language. C compiles insanely fast, is the fastest language there is, is very clear, is native to all systems, and is useful for all purposes.
 
@@ -136,11 +139,11 @@ Best regards,
 Gregory
 
 
-(Current program is written in Crystal (crystal-lang.org) -- it was written in ruby, it could be ported to another language.
+Current program is written in Crystal (crystal-lang.org) -- it was written in ruby, it could be ported to another language.
 
-I would like to make this self-hosting, but that would take a little bit of work.)
+I would like to make this self-hosting, but that would take a little bit of work.
 
-<h2>About the name.</h2>
+<h2>About the Name.</h2>
 
 
 Years ago, I really, really liked Compiz
